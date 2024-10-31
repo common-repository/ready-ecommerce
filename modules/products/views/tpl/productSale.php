@@ -1,0 +1,1 @@
+<div style="color: red; font-weight: bold; text-decoration: blink;"><?php lang::_e('SALE')?></div>

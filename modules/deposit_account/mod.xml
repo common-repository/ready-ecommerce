@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : deposit_account/mod.xml
+    Description:
+        Description of all configuration options for Deposit Account Module
+-->
+
+<config>
+    <params>
+        <param name="payText" type="textarea" label="On Success Checkout text" />
+    </params>
+</config>

@@ -1,0 +1,82 @@
+.toe_shortcode_highlight {background:#eee;}
+
+.toe_shortcode_dropcap:first-letter {font-size:220%;display:block;float:left;font-size:40px;line-height:40px;margin:10px 8px 5px 0;}
+
+.toe_shortcode_one_fourth, .toe_shortcode_one_third, .toe_shortcode_one_half, .toe_shortcode_two_third, .toe_shortcode_three_fourth {float:left; margin-bottom:10px; padding:0 10px; -moz-box-sizing: border-box; box-sizing: border-box; position:relative}
+.toe_shortcode_one_fourth {width:25%}
+.toe_shortcode_one_third {width:33%}
+.toe_shortcode_one_half {width:50%}
+.toe_shortcode_two_third {width:66%}
+.toe_shortcode_three_fourth {width:75%;}
+.toe_shortcode_full_width {width:100%; float:none; clear:both;}
+.toe_shortcode_last_column {clear:right; margin-right:0 !important}
+
+.success_box {background:#ddeffa url(../img/shortcodes/success.png) 19px 9px no-repeat; width:369px; padding:13px 13px 13px 65px; border:1px solid #d0d0d0; -webkit-border-radius: 4px; border-radius: 4px; color:#6b6b6b; font-size:14px; font-weight:bold;}
+.arrow_box {background:#ddeffa url(../img/shortcodes/arrow.png) 19px 9px no-repeat; width:369px; padding:13px 13px 13px 65px; border:1px solid #d0d0d0; -webkit-border-radius: 4px; border-radius: 4px; color:#6b6b6b; font-size:14px; font-weight:bold;}
+.alert_box {background:#eeeccd url(../img/shortcodes/alert.png) 19px 9px no-repeat; width:369px; padding:13px 13px 13px 65px; border:1px solid #d0d0d0; -webkit-border-radius: 4px; border-radius: 4px; color:#6b6b6b; font-size:14px; font-weight:bold;}
+.error_box {background:#fedddd url(../img/shortcodes/error.png) 21px 9px no-repeat; width:369px; padding:13px 13px 13px 65px; border:1px solid #d0d0d0; -webkit-border-radius: 4px; border-radius: 4px; color:#6b6b6b; font-size:14px; font-weight:bold;}
+.notice_box {background:#eeeccd url(../img/shortcodes/notice.png) 23px 6px no-repeat; width:369px; padding:13px 13px 13px 65px; border:1px solid #d0d0d0; -webkit-border-radius: 4px; border-radius: 4px; color:#6b6b6b; font-size:14px; font-weight:bold;}
+.info_box {background:#ddeffa url(../img/shortcodes/info.png) 18px 4px no-repeat; width:369px; padding:13px 13px 13px 65px; border:1px solid #d0d0d0; -webkit-border-radius: 4px; border-radius: 4px; color:#6b6b6b; font-size:14px; font-weight:bold;}
+
+.image-wrapper img {padding:5px; margin:5px; -webkit-box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.7); box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.7);}
+
+.price-table {width:278px; margin:10px 0;}
+    .price_box_head {text-align:center; padding:18px 0;}
+        .price_box_white {background:#f6f6f7; border:1px solid #989898;}
+        .price_box_grey {background:#959595; border:1px solid #959595;}
+        .price_box_blue {background:#516bb3; border:1px solid #516bb3;}
+        .price_box_red {background:#d60404; border:1px solid #d60404;}
+        .price_box_green {background:#1e8c00; border:1px solid #1e8c00;}
+        .price_box_yellow {background:#f5e700; border:1px solid #1e8c00;}
+        .price_box_head p {color:#282828; font-size:18px; padding:0; margin:0;}
+        .price_box_price {color:#fff; font-size:48px; font-weight:bold; line-height:48px;}
+        .price_box_white .price_box_price, .price_box_yellow .price_box_price {color:#282828;}
+    .price_box_body {border:1px solid #989898; border-top:none; padding:30px;}
+        .price_box_body ul {margin:0;}
+            .price_box_body li { list-style-type:none; background:url(../img/shortcodes/li-bullet.png) 0 2px no-repeat; padding-left:30px; font-size:18px; color:#282828; margin-bottom:5px;}
+        .price_box_more {text-align:center; margin:10px 0 0 0 !important; padding:0 !important;}
+        .price_box_more a {border:1px solid #d8d6d6; display:block; padding:5px 27px; background:url(../img/shortcodes/price-btn.png) repeat-x; color:#676666; text-decoration:none; text-shadow:0 1px 0 #fff; -webkit-border-radius: 5px; border-radius: 5px;}    
+        .price_box_more a:hover {background:url(../img/shortcodes/price-btn.png) 0 -30px repeat-x;}    
+        .price_box_more a:active {background:url(../img/shortcodes/price-btn.png) 0 -60px repeat-x;}    
+            
+blockquote {padding:35px 30px; position:relative; background:url(../img/shortcodes/quote-top.png) top left no-repeat;}     
+    blockquote span.quote {background:url(../img/shortcodes/quote-bottom.png) top left no-repeat; display:block; width:30px; height:22px; position:absolute; right:0; bottom:0;}
+    blockquote span.author {display:block; position:absolute; right:47px; bottom:0; color:#9e9e9e; font-style:italic; font-size:14px;}
+    
+.social_small {width:24px; height:24px;}
+
+.styled_table {border:1px solid #d1d1d1; border-left:none; border-top:none;}
+    .styled_table thead td { background:#505050 !important; color:#e0dede; border-left:none;}
+    .styled_table td {padding:30px 0; width:160px; text-align:center; font-size:14px; font-weight:bold; color:#505050; border-left:1px solid #d1d1d1;}
+    .styled_table tr:nth-child(2n+1) td {background:#ebe8e8;}
+    .accept_ico {background:url(../img/shortcodes/li-bullet.png) no-repeat; display:block; width:18px; height:18px; margin-left:72px;}
+    
+.short_table {}
+    
+    .short_table thead tr td:first-child {color:#fff;}
+    .short_table thead tr td {color:#e0dede; background:#505050; text-align:center; border-bottom:none;}
+    .short_table tr td:first-child {color:#505050; font-size:18px;}
+    .short_table tr td {color:#b9b9b9; text-align:center; border-bottom:1px dashed #d1d1d1; padding:10px 0;}
+    .short_table tbody tr:last-child td {border-bottom:none;}
+    .short_table tfoot td {color:#b9b9b9 !important; text-align:left; background:#ebe8e8; border-bottom:none; padding-left:20px;}
+    
+.shortcode_button {background:url(../img/shortcodes/btn-grey.png) repeat-x; display:block; line-height:32px; height:32px; font-size:14px; float:left; margin:10px; color:#484848; text-shadow:0 1px 0 #fff; text-align:center; padding-left:10px; border:1px solid #d3d3d3; -webkit-border-radius: 5px; border-radius: 5px;}
+.shortcode_button:hover {background:url(../img/shortcodes/btn-grey.png) 0 -32px repeat-x; text-decoration:none;}
+.shortcode_button:active {background:url(../img/shortcodes/btn-grey.png) 0 -64px repeat-x;}
+    .icon_arrow .button-icon {background:url(../img/shortcodes/arrow_icon.png) no-repeat; width:36px; height:32px; display:block; float:right; margin-left:10px;}
+    .icon_arrow-left .button-icon {background:url(../img/shortcodes/arrow_left_icon.png) no-repeat; width:36px; height:32px; display:block; float:right; margin-left:10px;}
+    .icon_ok .button-icon {background:url(../img/shortcodes/ok_icon.png) no-repeat; width:36px; height:32px; display:block; float:right; margin-left:10px;}
+    .icon_download .button-icon {background:url(../img/shortcodes/download_icon.png) no-repeat; width:36px; height:32px; display:block; float:right; margin-left:10px;}
+    .icon_cancel .button-icon {background:url(../img/shortcodes/cancel_icon.png) no-repeat; width:36px; height:32px; display:block; float:right; margin-left:10px;}
+    .icon_notify .button-icon {background:url(../img/shortcodes/notify_icon.png) no-repeat; width:36px; height:32px; display:block; float:right; margin-left:10px;}
+    .icon_info .button-icon {background:url(../img/shortcodes/info_icon.png) no-repeat; width:36px; height:32px; display:block; float:right; margin-left:10px;}
+    .icon_discount .button-icon {background:url(../img/shortcodes/discount_icon.png) no-repeat; width:36px; height:32px; display:block; float:right; margin-left:10px;}
+    .icon_cart .button-icon {background:url(../img/shortcodes/cart_icon.png) no-repeat; width:36px; height:32px; display:block; float:right; margin-left:10px;}
+    
+.button_color {line-height:31px; font-size:14px; padding: 0 15px; display:block; float:left; margin:10px; color:#fff; text-shadow:0 1px 0 #717171; text-align:center; -webkit-border-radius: 5px; border-radius: 5px;}
+.button_color:hover {background-position:0 -31px; text-decoration:none;}
+.button_color:active {background-position:0 -62px;}
+    .btn_color_brown {background:url(../img/shortcodes/btn-brown.png) repeat-x;}
+    .btn_color_blue {background:url(../img/shortcodes/btn-blue.png) repeat-x;}
+    .btn_color_violet {background:url(../img/shortcodes/btn-violet.png) repeat-x;}
+    .btn_color_yellow {background:url(../img/shortcodes/btn-yellow.png) repeat-x;}

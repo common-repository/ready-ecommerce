@@ -1,0 +1,6 @@
+.toeInstDummyFromTheme img {
+	float: none !important;
+	border: none !important;
+	margin: 0 !important;
+	width: auto !important;
+}

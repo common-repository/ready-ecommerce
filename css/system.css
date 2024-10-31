@@ -1,0 +1,135 @@
+.toeOrderDetailsBox {
+	float: left;
+	position:relative;
+}
+.toeOrderDetailsAuditBox {
+	float: right;
+}
+.toeSystemAlert {
+	background:#eeeccd url(../img/shortcodes/alert.png) 19px 9px no-repeat; 
+	padding:13px 13px 13px 65px; 
+	border:1px solid #d0d0d0; 
+	-webkit-border-radius: 4px; 
+	border-radius: 4px; 
+	color:#6b6b6b; 
+	font-size:14px; 
+	font-weight:bold;
+}
+.toeReadonly {
+	background-color: #EEEEEE !important;
+}
+/*.toeSidebarShell {
+	border: 2px black dashed;
+}*/
+.toeSidebarShellClonned {
+	border: 2px black dashed;
+	position: absolute;
+	min-width: 100px;
+	min-height: 50px;
+}
+.toeSidebarShell {
+	min-width: 100px;
+	min-height: 50px;
+}
+.toeWidgetEditorShellClonned {
+	border: 1px #484848 solid;
+    padding:5px; height:auto !important;
+	/*position: relative;*/
+}
+.toeSidebarShellClonedLabel {
+	font-weight: bold;
+	/*position: absolute;*/
+    text-align:center;
+}
+.toeWidgetEditorShellClonnedLabel {
+	font-weight: bold;
+	margin-bottom:10px;
+	/*float: left;*/
+}
+.toePageEditBody {
+	opacity: 0.3;
+}
+.toeWidgetRemove {
+	float: right;
+	background: url(../img/cross.gif) 0px 0px no-repeat; 
+	width: 16px;
+	height: 16px;
+	cursor: pointer;
+}
+.toeWidgetRemove:hover {
+	background-color: #ff9999;
+}
+.toeActiveWidget {
+	min-height: 50px;
+}
+.toeActiveWidgetsList .toeActiveWidget {
+	min-height: 20px;
+	width: 100%;
+	float: left;
+    margin: 0 0 5px 0;
+    padding: 0;
+    background: none;
+    border: none;
+}
+.toeWidgetControls {
+	float: left;
+}
+/* div is to determine that this should not be for other jquery ui widgets (like tabs) */
+div.ui-widget-header {
+	cursor: move;
+    padding:3px 5px;
+    color:#484848;
+}
+/* Slide panel */
+.toeSlidePanelShell {
+	position: fixed;
+	top: 28px;
+	right: 0px;
+	bottom: 0px;
+	left: 100%;
+	z-index: 999;
+    padding:0 15px;
+	background:#585858 url(img/low_contrast_linen.png);
+    -webkit-box-shadow: inset 2px 0px 8px 0px rgba(0, 0, 0, 0.8);
+    box-shadow: inset 2px 0px 8px 0px rgba(0, 0, 0, 0.8);
+    border-left:3px solid #1d1d1d;
+	/*overflow-y: scroll;
+	overflow-x: visible;*/
+}
+.toeSlidePanelOpener {
+	position: fixed;
+	/*left: -37px;*/
+	right: 0px;
+	top: 50%;
+	cursor: pointer;
+	z-index: 999;
+    text-indent:-9999px;
+    width:20px;
+    height:100px;
+    background:url(img/widgets.png) no-repeat;
+}
+.toeSlidePanelLock {
+	cursor: pointer;
+    /*float:right;*/
+    color:#323232;
+    text-shadow:0 1px 0 #dcc073;
+    font-weight:bold; text-align:center;
+    width:60px;
+    -webkit-border-radius: 0px 0px 0px 5px;
+    border-radius: 0px 0px 0px 5px;
+    background:#ec8e0c;
+    margin-right:-15px;
+}
+.toeSlidePanelShell h1 {font-size:24px; color:#e7e7e7; text-shadow:1px 0 0 #565353;}
+.ui-accordion .ui-accordion-header-active {border-color:#1c1c1c !important; padding:5px 0 6px 40px; color:#ec8e0c; background:url(img/accordion-header-active.png);}
+.ui-accordion .ui-accordion-header {border-color:#1c1c1c !important; padding:5px 0 6px 40px; background:url(img/accordion-header.png); color:#e7e7e7;}
+
+/* Tabs */
+#toeEditPagesTabsContent {margin-top:40px;}
+#toeEditPagesTabsContent .ui-tabs-nav {border:none; border-radius:none; -moz-border-radius:none; background:none; padding:0; margin-top:-34px;}
+#toeEditPagesTabsContent .ui-state-default {background:url(img/tab-bg.png) repeat-x; border:none;}
+#toeEditPagesTabsContent .ui-state-active {background:#d8d8d8; border:none;}
+#toeEditPagesTabsContent .ui-state-active a {color:#313131 !important; text-shadow:0 -1px 0 #f0f0f0 !important;}
+#toeEditPagesTabsContent .ui-state-default a {color:#fff; text-shadow:0 -1px 0 #b69651;}
+
+.widget-control-remove {color:#eb0000;}

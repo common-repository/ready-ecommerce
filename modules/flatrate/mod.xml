@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : flatrate/mod.xml
+    Description:
+        Description of all configuration options for Flatrate Shipping Module
+-->
+
+<config>
+    <params>
+        <param name="rate" type="text" label="Rate" />
+    </params>
+</config>

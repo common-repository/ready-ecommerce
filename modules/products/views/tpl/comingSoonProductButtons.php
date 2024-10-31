@@ -1,0 +1,1 @@
+<div style="clear: both;"><?php lang::_e('This product is coming soon!')?></div>

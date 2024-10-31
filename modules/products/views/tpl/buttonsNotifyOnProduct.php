@@ -1,0 +1,1 @@
+<div class="toeErrorMsg"><?php lang::_e('This product is out of stock.')?></div>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : tablerate/mod.xml
+    Description:
+        Description of all configuration options for Pages Module
+-->
+
+<config>
+    <params>
+        <param name="table_rate" type="textFieldsDynamicTable" label="Table Rate" helper="getRateTableOptions" />
+		<param name="base_rate_on" 
+		   type="selectbox" 
+		   label="Base rate on" 
+		   values="weight=>Weight,price=>Price,qty=>QTY" 
+		   default="weight" />
+    </params>
+</config>

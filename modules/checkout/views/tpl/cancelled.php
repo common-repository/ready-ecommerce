@@ -1,0 +1,1 @@
+<h2><b style="color: red;"><?php lang::_e('Sorry, but there are some problems with your order validation. Please try again latter.')?></b></h2>

@@ -1,0 +1,1 @@
+<b><?php lang::_e($this->payText)?></b>

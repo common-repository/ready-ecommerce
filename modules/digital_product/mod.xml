@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : digital_product/mod.xml
+    Description:
+        Description of all configuration options for Digital Product Module
+-->
+
+<config>
+    <params>
+        <param name="download_limit" type="text" label="Limit Number of File Downloads" default="0" />
+        <param name="period_limit" type="text" label="Number of Days For Download" default="0" />
+    </params>
+</config>

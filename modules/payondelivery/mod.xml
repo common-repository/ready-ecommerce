@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : payondelivery/mod.xml
+    Description:
+        Description of all configuration options for Pay on Delivery Module
+-->
+
+<config>
+    <params>
+
+    </params>
+</config>

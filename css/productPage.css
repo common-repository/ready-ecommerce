@@ -1,0 +1,8 @@
+#slugdiv, #postexcerpt, #postdivrich {display:none;}
+#postexcerpt .inside {margin:0;padding:0;background:#fff;}
+#postexcerpt .inside p {display:none;}
+#postexcerpt #excerpteditorcontainer { border-style: solid; padding: 0; }
+#excerpt_ifr html {background: #fff;}
+#slugdiv #post_name {width: 100%;}
+/*#wp-content-editor-container {height: 300px;}*/
+

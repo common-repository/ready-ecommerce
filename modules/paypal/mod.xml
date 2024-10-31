@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : paypal/mod.xml
+    Description:
+        Description of all configuration options for PayPal Module
+-->
+
+<config>
+    <params>
+        <param name="email" type="text" label="Email" />
+		<param name="paymentaction" type="selectbox" label="Payment Action" values="authorization,sale" />
+        <param name="testMode" type="checkbox" label="Test Mode" />
+    </params>
+</config>

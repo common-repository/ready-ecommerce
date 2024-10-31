@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<products>
+	<category>
+		<name>Glasses</name>
+	</category>
+	<category>
+		<name>Moblile Phones</name> 
+	</category>
+	<category>
+		<name>Shoes</name>  
+		<children>
+			<category>Junior</category>
+			<category>Man</category>
+			<category>Woman</category>
+		</children>
+	</category>
+	
+
+	<brand>
+		<name>Adidas</name>
+		<img>adidas-logo-300x199.png</img>
+	</brand>
+	<brand>
+		<name>Boss</name>
+		<img>151hugo_boss_logo_block-300x300.png</img>
+	</brand>
+	<brand>
+		<name>Heelys</name>
+		<img>logo_HEELYS.png</img>
+	</brand>
+	<brand>
+		<name>Motoroa</name>
+		<img>Motorola-Logo-300x214.png</img>
+	</brand>
+	<brand>
+		<name>Nike</name>
+		<img>NikeLogo-300x158.png</img>
+	</brand>
+	<brand>
+		<name>Nokia</name>
+		<img>Nokia-Logo-300x150.png</img>
+	</brand>
+	<brand>
+		<name>Samsung</name>
+		<img>698px-Samsung_Logo.svg_-300x101.png</img>
+	</brand>
+
+	
+
+	<product>
+		<tax_input_categories>Glasses</tax_input_categories>
+		<tax_input_brands>Boss</tax_input_brands>
+		<post_content>chapajax rod</post_content>
+		<post_excerpt>chapajax rod</post_excerpt>
+		<post_name>hugo-boss-black-boss-0362u-eyeglasses</post_name>
+		<post_title>Hugo Boss Boss 0362</post_title>
+		<tags_input>Glasses|Hugo|Boss</tags_input>
+		<price>192.25</price>
+		<weight>0.000</weight>
+		<sku>72</sku>
+		<featured>1</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>HugoBoss_big.jpg</filename>
+			</img>
+		</imgs>
+	</product>
+	
+	<product>
+		<tax_input_categories>Mobile Phones</tax_input_categories>
+		<tax_input_brands>Motorola</tax_input_brands>
+		<post_content>chapajax rod</post_content>
+		<post_excerpt>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.</post_excerpt>
+		<post_name>actv-canary-yellow</post_name>
+		<post_title>ACTV Canary Yellow</post_title>
+		<tags_input>Mobile Phones|ACTV|Motorola|Canary</tags_input>
+		<price>145.00</price>
+		<weight>0.000</weight>
+		<sku>294</sku>
+		<quantity>20</quantity>
+		<featured>0</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>Motorola-ACTV-Phone-Canary-Yellow-T-Mobile-wallpaper.jpg</filename>
+			</img>
+		</imgs>
+	</product>	
+	
+	<product>
+		<tax_input_categories>Mobile Phones</tax_input_categories>
+		<tax_input_brands>Motorola</tax_input_brands>
+		<post_content>&lt;ul&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 1&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.
+&lt;/li&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 2&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.&lt;/li&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 3&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.&lt;/li&gt;
+&lt;/ul&gt;</post_content>
+		<post_excerpt>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.</post_excerpt>
+		<post_name>old-motorola</post_name>
+		<post_title>Old Motorola</post_title>
+		<tags_input>Mobile Phones|Old|Motorola</tags_input>
+		<price>15.00</price>
+		<weight>0.000</weight>
+		<sku>288</sku>
+		<quantity>179</quantity>
+		<featured>0</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>dkmb86g_479d4jjqng4_b.jpg</filename>
+			</img>
+		</imgs>
+	</product>
+	
+	
+	<product>
+		<tax_input_categories>Mobile Phones</tax_input_categories>
+		<tax_input_brands>Motorola</tax_input_brands>
+		<post_content>&lt;ul&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 1&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.
+&lt;/li&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 2&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.&lt;/li&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 3&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.&lt;/li&gt;
+&lt;/ul&gt;</post_content>
+		<post_excerpt>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.</post_excerpt>
+		<post_name>v3</post_name>
+		<post_title>v3</post_title>
+		<tags_input>Mobile Phones|v3|Motorola</tags_input>
+		<price>43.00</price>
+		<weight>0.000</weight>
+		<sku>300</sku>
+		<quantity>328</quantity>
+		<featured>0</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>motorola-v3.jpg</filename>
+			</img>
+		</imgs>
+	</product>
+
+	<product>
+		<tax_input_categories>Mobile Phones</tax_input_categories>
+		<tax_input_brands>Motorola</tax_input_brands>
+		<post_content>&lt;ul&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 1&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.
+&lt;/li&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 2&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.&lt;/li&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 3&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.&lt;/li&gt;
+&lt;/ul&gt;
+</post_content>
+		<post_excerpt>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.</post_excerpt>
+		<post_name>evoke-qa4-slider</post_name>
+		<post_title>Evoke Qa4 Slider</post_title>
+		<tags_input>Mobile Phones|Evoke|Motorola|Qa4|Slider</tags_input>
+		<price>94.00</price>
+		<weight>0.000</weight>
+		<sku>297</sku>
+		<quantity>20</quantity>
+		<featured>0</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>motorola-evoke-qa4-touchscreen-slider.jpg</filename>
+			</img>
+		</imgs>
+	</product>	
+	
+	<product>
+		<tax_input_categories>Mobile Phones</tax_input_categories>
+		<tax_input_brands>Motorola</tax_input_brands>
+		<post_content>&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Motorola Razr XT910&lt;/strong&gt; is a premium smartphone from Motorola&lt;/li&gt;
+	&lt;li&gt;The phone features a &lt;strong&gt;4.3" Super AMOLED capacitive touch screen&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;The phone runs &lt;strong&gt;Android 2.3.5 Gingerbread OS&lt;/strong&gt;, powered by a &lt;strong&gt;1.2GHz Dual core processor with 1GB RAM&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;The phone sports a &lt;strong&gt;8MP camera&lt;/strong&gt; with auto focus and LED flash as well as a &lt;strong&gt;1.3MP secondary camera&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;The phone has &lt;strong&gt;16GB of internal memory&lt;/strong&gt; which can be further expanded by up to 32GB using micro SD card&lt;/li&gt;
+	&lt;li&gt;The phone comes with a &lt;strong&gt;1780 mAh battery&lt;/strong&gt; that provides talk time of up to 9 hours&lt;/li&gt;
+&lt;/ul&gt;</post_content>
+		<post_excerpt>Motorola Razr XT910 is a premium smartphone from Motorola</post_excerpt>
+		<post_name>motorola-razr-xt910</post_name>
+		<post_title>Motorola Razr XT910</post_title>
+		<tags_input>Mobile Phones|Razr|Motorola|XT910</tags_input>
+		<price>405.99</price>
+		<weight>0.000</weight>
+		<sku>82</sku>
+		<quantity>50</quantity>
+		<featured>1</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>Motorola-RAZR-XT910-pictures.jpg</filename>
+			</img>
+			<img>
+				<filename>motorola_razr_xt910.jpg</filename>
+			</img>
+			<img>
+				<filename>moto-x910-razr.jpg</filename>
+			</img>
+		</imgs>
+	</product>	
+
+	<product>
+		<tax_input_categories>Mobile Phones</tax_input_categories>
+		<tax_input_brands>Nokia</tax_input_brands>
+		<post_content>&lt;ul&gt;
+	&lt;li&gt;
+&lt;h3&gt;Built for speed and Internet&lt;/h3&gt;
+1.4 GHz processor, 4G LTE, Bing, Internet Explorer 9, HTML5, Wi-Fi&lt;/li&gt;
+	&lt;li&gt;
+&lt;h3&gt;Design&lt;/h3&gt;
+4.3" AMOLED ClearBlack glass touchscreen, one-piece polycarbonate body, excellent antenna performance&lt;/li&gt;
+	&lt;li&gt;
+&lt;h3&gt;Cameras&lt;/h3&gt;
+Carl Zeiss optics, 8 MP main camera, dual LED flash, Auto Focus, 1 MP front camera, video calling&lt;/li&gt;
+	&lt;li&gt;
+&lt;h3&gt;Battery&lt;/h3&gt;
+All day battery life, up to 7 hours talk time&lt;/li&gt;
+	&lt;li&gt;
+&lt;h3&gt;Social&lt;/h3&gt;
+Facebook, Twitter, LinkedIn, email, Chat, SMS&lt;/li&gt;
+&lt;/ul&gt;</post_content>
+		<post_excerpt>Apps for your Nokia Lumia 900
+
+The power of apps: more fun, more useful, more creative.</post_excerpt>
+		<post_name>nokia-lumia-900</post_name>
+		<post_title>Nokia Lumia 900</post_title>
+		<tags_input>Mobile Phones|Lumia|Nokia|900</tags_input>
+		<price>230.99</price>
+		<weight>0.000</weight>
+		<sku>76</sku>
+		<quantity>48</quantity>
+		<featured>1</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>1336536943_001.jpg</filename>
+			</img>
+			<img>
+				<filename>1fb905854ce2fc4cc93f96aae935b181.jpg</filename>
+			</img>
+			<img>
+				<filename>ncom-lumia-900-cyan-front-267x500-png.png</filename>
+			</img>
+		</imgs>
+	</product>	
+	
+	<product>
+		<tax_input_categories>Mobile Phones</tax_input_categories>
+		<tax_input_brands>Motorola</tax_input_brands>
+		<post_content>&lt;ul&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 1&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.
+&lt;/li&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 2&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.&lt;/li&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 3&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.&lt;/li&gt;
+&lt;/ul&gt;</post_content>
+		<post_excerpt>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.</post_excerpt>
+		<post_name>sl500-aa300</post_name>
+		<post_title>SL500 AA300</post_title>
+		<tags_input>Mobile Phones|SL500|Motorola|AA300</tags_input>
+		<price>76.00</price>
+		<weight>0.000</weight>
+		<sku>285</sku>
+		<featured>0</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>419UobNLOZL._SL500_AA300_.jpg</filename>
+			</img>
+		</imgs>
+	</product>	
+
+	<product>
+		<tax_input_categories>Mobile Phones</tax_input_categories>
+		<tax_input_brands>Samsung</tax_input_brands>
+		<post_content>Galaxy Note is A new type of smartphone, borne of insight and innovation. It is the ultimate on-the-go device which consolidates core benefits of diverse mobile devices while maintaining smartphone portability. It empowers you with everything you can ever desire so that you can simply, feel free. It is truly smart.
+
+Consumer research indicates that people always want to do more tasks much better, even on the go, whether it is web browsing, email, games, or viewing photos and videos. To do all this, consumers carry multiple devices, because each device has unique benefits that work best in a particular situation. Therefore, consumers constantly switch devices to use the right device at the right time.
+
+Even for consumers with multiple smart devices, they still carry around a notepad for writing down ideas. There is an emerging desire for a primary device for on-the-go use that could consolidate the core tasks of multiple devices as well as recreate the ease and simplicity of using a pen and paper.
+
+The GALAXY Note was created to reflect your desires. The Galaxy Note is a primary device that will minimize the need to switch to other devices while on the go and open up the potential of your mobile experience.</post_content>
+		<post_excerpt>Galaxy Note is A new type of smartphone, borne of insight and innovation. It is the ultimate on-the-go device which consolidates core benefits of diverse mobile devices while maintaining smartphone portability. It empowers you with everything you can ever desire so that you can simply, feel free. It is truly smart.</post_excerpt>
+		<post_name>samsung-galaxy-note-gt-n7000</post_name>
+		<post_title>Galaxy Note</post_title>
+		<tags_input>Mobile Phones|Galaxy|Note|Samsung</tags_input>
+		<price>550.00</price>
+		<weight>0.000</weight>
+		<sku>87</sku>
+		<quantity>38</quantity>
+		<featured>1</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>41XMAg8eBuL._SL500_AA300_.jpg</filename>
+			</img>
+			<img>
+				<filename>51ezgF306CL._AA300_.jpg</filename>
+			</img>
+			<img>
+				<filename>31f3szK0OqL._AA300_.jpg</filename>
+			</img>
+		</imgs>
+		<parameters>
+			<parameter>
+				<label>Extra Options</label>
+				<htmltype>9</htmltype>
+				<options>
+					<option>
+						<value>non</value>
+     					<price>0</price>
+     					<absolute>0</absolute>
+     				</option>
+     				<option>
+     					<value>+ One year contract</value>
+      					<price>20</price>
+     					<absolute>1</absolute>
+     				</option>
+     				<option>
+     					 <value>+ Ten years contract</value>
+     					 <price>66</price>
+     					 <absolute>1</absolute>
+    				 </option>
+   				 </options>
+			</parameter>
+		</parameters>
+	</product>	
+	
+	
+
+
+
+
+
+	
+	
+
+	
+	
+	
+
+
+</products>

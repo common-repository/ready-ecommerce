@@ -1,0 +1,70 @@
+.product_downloads li {
+    position: relative;
+    border-bottom: 1px solid #DFDFDF;
+    margin-bottom: 2px;
+}
+
+.upload_file { 
+    border: 1px solid #DFDFDF;
+    border-radius: 3px;
+    background: #fff;
+    padding: 3px;
+    margin-bottom: 5px;
+    position: relative;
+}
+
+.product_numeric {
+    width: 60px;
+}
+
+.upload_file p {
+    overflow: hidden;
+    clear: both;
+}
+
+.upload_file p label {
+    float: left;
+    line-height: 21px;
+}
+
+.upload_file p input {
+    float: right;
+}
+
+.upload_file p input.uploader {
+    float: left;
+}
+
+.upload_file textarea, .toeProductFileOptions textarea {
+    width: 100%;
+}
+
+.remove_product_file, .delete_product_file {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    display: block;
+    width: 16px;
+    height: 16px;
+    background: url("../img/delete.png") no-repeat;
+    cursor: pointer;
+}
+
+.delete_product_file {
+    top: 0;
+    right: 0;
+}
+
+.toeEditProductFile {
+	width: 20px;
+	height: 20px;
+	float: right;
+	background-image:url("../img/edit.png");
+	background-repeat:no-repeat;
+	margin-right: 22px;
+	background-size:90%;
+	cursor:pointer;
+}
+.toeProductFileOptions{
+	display:none;
+}

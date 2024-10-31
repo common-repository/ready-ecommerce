@@ -1,0 +1,32 @@
+.toeRating a {
+    display:block;
+    height: 12px;
+    width: 12px;
+    text-decoration: none;
+    text-indent: -9999px;
+    cursor: pointer;
+}
+.toeRating a.toeStarOff {
+    background-image: url("rates/rating_off.gif");
+}
+.toeRating a.toeOverRate {
+    background-image: url("rates/rating_over.gif") !important;
+}
+.toeRating a.toeSelectedRate {
+    background-image: url("rates/rating_on.gif");
+}
+.toeRating a.toeHalfSelectedRate {
+    background-image: url("rates/rating_half.gif");
+}
+.toeRating li {
+    list-style-type: none;
+   
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    height: 12px;
+}
+.toeRating {
+    margin: 0;
+    height: 12px;
+}

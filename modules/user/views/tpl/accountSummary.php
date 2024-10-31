@@ -1,0 +1,3 @@
+<a id="user_profile" href="<?php echo frame::_()->getModule('pages')->getLink(array('mod' => 'user', 'action' => 'getProfileHtml'))?>"><?php lang::_e('Edit Profile')?></a><br />
+<a id="order_history" href="<?php echo frame::_()->getModule('pages')->getLink(array('mod' => 'user', 'action' => 'getOrdersList'))?>"><?php lang::_e('View Orders')?></a><br />
+<a id="user_downloads" href="<?php echo frame::_()->getModule('pages')->getLink(array('mod' => 'digital_product', 'action' => 'getDownloadsList'))?>"><?php lang::_e('View Downloads')?></a><br />

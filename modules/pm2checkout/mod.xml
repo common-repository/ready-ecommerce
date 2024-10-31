@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : pm2checkout/mod.xml
+    Description:
+        Description of all configuration options for 2Checkout Module
+-->
+
+<config>
+    <params>
+        <param name="id" type="text" label="The vendor account number for the 2Checkout gateway" />
+        <param name="testMode" type="checkbox" label="Test Mode" />
+    </params>
+</config>

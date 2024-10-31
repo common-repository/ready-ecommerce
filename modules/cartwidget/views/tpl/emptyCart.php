@@ -1,0 +1,1 @@
+<div><h3><?php lang::_e('Your cart is empty')?></h3></div>
